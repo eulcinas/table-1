@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap');
+
+h2{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #fec107;
+    margin: 20px auto;
+    width: 800px;
+    font-family: roboto;
+    }
+
+th, td {
+border: 2px solid #e5ae30;
+padding: 20px;
+text-align: justify;
+font-family: roboto;
+}
+
+.yellow {
+    background: #fec107;
+    text-align: center;
+    color: black;
+    font-family: roboto;
+}
+
+.yellowish {
+    background: #e5ae30;
+    text-align: center;
+    font-family: roboto;
+}
+
+.row {
+    background: #382c6e;
+    color: white;
+    font-family: roboto;
+}
